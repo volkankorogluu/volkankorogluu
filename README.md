@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volkan. Nice to see you.</h1>
 <h3 align="center">I'm Volkan, Backend developer from Izmir, Turkey 🇹🇷 currently living in Boston, United States 🇺🇸.</h3>
 
-- 👨‍💻 All of my projects are available at [volkankoroglu.com](volkankoroglu.com)
+- 👨‍💻 All of my projects are available at <a href="https://volkankoroglu.com/" target="_blank">volkankoroglu.com</a>
 
 - 📫 How to reach me **volkankorogluu@gmail.com**
 
