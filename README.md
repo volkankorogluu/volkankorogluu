@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Volkan. Nice to see you.</h1>
 <h3 align="center">I'm Volkan, Backend developer from Izmir, Turkey 🇹🇷 currently living in Boston, United States 🇺🇸.</h3> 🇷
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volkankorogluu&label=Profile%20views&color=0e75b6&style=flat" alt="volkankorogluu" /> </p>
-
 - 👨‍💻 All of my projects are available at [volkankoroglu.com](volkankoroglu.com)
 
 - 📫 How to reach me **volkankorogluu@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volkankorogluu&label=Profile%20views&color=0e75b6&style=flat" alt="volkankorogluu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
